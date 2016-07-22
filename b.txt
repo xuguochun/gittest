@@ -1,2 +1,2 @@
 Creating a new branch is quick.
-git checkout master
+git checkout master master is good
